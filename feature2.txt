@@ -16,3 +16,7 @@ Ajouter un nouveau livre.
 Modifier les informations d'un livre existant
 Supprimer un livre.
 
+Prêts
+
+Modifier les informations d'un prêt existant
+Supprimer un prêt.
