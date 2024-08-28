@@ -6,4 +6,7 @@ Afficher la liste des membres
 Ajouter un nouveau membre
 Modifier les informations d'un membre existant
 Supprimer un membre
-Gestion des Prêts:
+
+Prêts:
+Afficher la liste des prêts
+Ajouter un nouveau prêt
