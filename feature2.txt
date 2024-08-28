@@ -7,3 +7,4 @@ Ajouter un nouveau livres
 Modifier les informations d'un livres existant
 Supprimer un livres
 
+Ce README fournit une documentation exhaustive sur l'ensemble des fonctionnalités disponibles dans les modules.
