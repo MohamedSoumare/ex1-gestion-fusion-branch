@@ -6,3 +6,10 @@ Afficher la liste des membres
 Ajouter un nouveau membre
 Modifier les informations d'un membre existant
 Supprimer un membre.
+
+Prêts :
+
+Afficher la liste des prets
+Ajouter un nouveau pret
+Modifier les informations d'un pret existant
+Supprimer un pret.
