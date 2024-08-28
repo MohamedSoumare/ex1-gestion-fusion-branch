@@ -1,0 +1,18 @@
+Une application web de gestion de bibliothèque développée avec Vue.js 3 et la Composition API qui permet de gérer les livres, membres et les prêts.
+
+Fonctionnalités
+
+Memebres 
+
+Afficher la liste des membres
+Ajouter un nouveau membre
+Modifier les informations d'un membre existant
+Supprimer un membre
+
+Livres 
+
+Afficher la liste des livres
+Ajouter un nouveau livre.
+Modifier les informations d'un livre existant
+Supprimer un livre.
+
