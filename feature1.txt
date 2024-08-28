@@ -5,5 +5,4 @@ Fonctionnalités
 Afficher la liste des membres
 Ajouter un nouveau membre
 Modifier les informations d'un membre existant
-Supprimer un membre
-Gestion des Prêts:
+Supprimer un membre.
